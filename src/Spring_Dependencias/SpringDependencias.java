@@ -1,6 +1,6 @@
 package Spring_Dependencias;
-// detalhando as 23 dependências principais do Spring Framework,
-// funcionalidades e exemplos práticos de uso para cada uma.
+// detalhando as 23 dependências principais do Spring Framework
+// funcionalidades e exemplos práticos de uso para cada uma
 
 public class SpringDependencias {
 
